@@ -1,7 +1,3 @@
-# Simulation Testbench
-#
-# Author: Neha Karanjkar
-# Date: 6 April 2020
 
 import simpy
 from Applications import SendingApplication,ReceivingApplication
