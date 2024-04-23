@@ -1,7 +1,8 @@
 # SimPy models for rdt_Sender and rdt_Receiver
 # implementing the Go-Back-N Protocol
 
-# Author: Dr. Neha Karanjkar, IIT Goa
+# Authors: Ritesh Phulari 2203125 , Sahil Garg 2203127,Harshil Patel 2203123,Shreeraj Deshmukh 2203130
+
 
 import simpy
 import random
